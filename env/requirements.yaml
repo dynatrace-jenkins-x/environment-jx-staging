@@ -12,7 +12,7 @@ dependencies:
   version: 2.3.58
 - name: front-end
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.3.50
+  version: 0.3.51
 - name: orders
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.4.59
