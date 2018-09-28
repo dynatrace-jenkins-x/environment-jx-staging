@@ -22,6 +22,9 @@ dependencies:
 - name: queue-master
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.3.14
+- name: shipping
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.4.33
 - name: user
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.4.52
