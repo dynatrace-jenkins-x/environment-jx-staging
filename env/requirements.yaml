@@ -1,7 +1,7 @@
 dependencies:
 - name: carts
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.4.91
+  version: 0.4.92
 - name: catalogue
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.3.95
